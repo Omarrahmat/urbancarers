@@ -182,7 +182,7 @@ def render_header(current_path: str, logo_src: str) -> str:
     </div>
   </div>
   <div class="container navbar">
-    <a href="/" class="brand" aria-label="Urban Carers home"><img src="{logo_src}" alt="Urban Carers Ltd" width="1000" height="494"></a>
+    <a href="/" class="brand" aria-label="Urban Carers home"><img src="{logo_src}" alt="Urban Carers Ltd" width="1334" height="334"></a>
     <nav class="nav" aria-label="Main">{''.join(links)}</nav>
     <div class="actions">
       <a href="tel:{CONTACT['tel']}" class="btn btn-outline btn-sm">Call us</a>
@@ -205,7 +205,7 @@ def render_footer(logo_src: str) -> str:
     return f"""<footer class="site-footer">
   <div class="container footer-grid">
     <div class="footer-brand">
-      <img src="{logo_src}" alt="Urban Carers Ltd" width="1000" height="494">
+      <img src="{logo_src.replace('logo.png', 'logo-white.png')}" alt="Urban Carers Ltd" width="1334" height="334">
       <p>Safe, stable supported accommodation and housing-related support for care leavers aged 18–25 across London.</p>
     </div>
     <div class="footer-col">
