@@ -2,7 +2,7 @@
 
 FAQS = [
     ["What is supported accommodation for care leavers?", "Supported accommodation is housing with support for care leavers aged 18–25 only. Residents have their own room in shared housing and receive housing-related support such as key-working, budgeting and tenancy skills."],
-    ["Do you provide semi-independent accommodation?", "Yes, for young adults aged 18–25 only. Each young person has their own room in a shared house and builds the skills to live independently, with at least 5 hours of key-work support a week."],
+    ["Is supported accommodation the same as semi-independent accommodation?", "The two terms are often used for the same kind of home. What we provide is 18+ supported accommodation for young men aged 18–25 only: each young person has their own room in a shared house and builds the skills to live independently, with at least 5 hours of key-work support a week."],
     ["Which areas of London do you cover?", "Our house is in South London. We accept referrals from London boroughs and from local authorities outside London placing young people in the capital."],
     ["Do you accept UASC referrals?", "Yes. We support unaccompanied asylum-seeking young adults aged 18 to 25 who are ready to live in supported accommodation."],
     ["How quickly can a placement start?", "We acknowledge referrals within 2 working hours and aim to make a placement decision within 24 hours of receiving full referral information. We can consider emergency placements subject to availability and assessment."],
@@ -21,7 +21,7 @@ PAGE = {
             "type": "home_hero",
             "eyebrow": "Supported accommodation · London",
             "h1": "Supported accommodation in London for care leavers aged 18–25",
-            "lead": "Safe, stable semi-independent accommodation with structured key-work support for care leavers and asylum-seeking young people aged 18–25. Our home is in South London, and we take referrals from councils across London and beyond.",
+            "lead": "Safe, stable 18+ supported accommodation with structured key-work support for care leavers and asylum-seeking young people aged 18–25. Our home is in South London, and we take referrals from councils across London and beyond.",
             "buttons": [
                 {"label": "Make a Referral", "href": "/referrals", "variant": "primary", "icon": "arrow-right"},
                 {"label": "Our accommodation", "href": "/accommodation", "variant": "outline"},

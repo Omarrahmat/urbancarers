@@ -29,7 +29,7 @@ PAGE = {
                     {"title": "We can usually help", "kind": "check", "items": [
                         "Care leavers aged 18–25 who need supported accommodation",
                         "Unaccompanied asylum-seeking young people (UASC) and former UASC aged 18–25",
-                        "Young adults with low to medium support needs who are ready to live semi-independently",
+                        "Young adults with low to medium support needs who are ready to build towards living independently",
                         "Young people stepping down from a more intensive placement as a planned move",
                     ]},
                     {"title": "We're not the right placement for", "kind": "x", "items": [

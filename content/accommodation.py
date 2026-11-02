@@ -14,7 +14,7 @@ SUPPORT = [
 FAQS = [
     ["Where is the house?", "In South London. We share the full address with referring professionals."],
     ["Do you accept 16 and 17 year olds?", "No. We provide non-regulated supported accommodation for young adults aged 18–25 only."],
-    ["Is this semi-independent accommodation?", "Yes. It's semi-independent living for 18–25 year olds: each young person has their own room and builds independent living skills, with at least 5 hours of key-work support a week and management on call around the clock."],
+    ["Is this semi-independent accommodation?", "It's 18+ supported accommodation, which is what many people are looking for when they search for semi-independent accommodation. The house is for young men aged 18–25 only: each young person has their own room and builds independent living skills, with at least 5 hours of key-work support a week and management on call around the clock."],
     ["Which councils can refer?", "Any placing local authority, in London or beyond."],
     ["How quickly do you respond to referrals?", "We acknowledge referrals within 2 working hours and aim to make a placement decision within 24 hours of receiving full referral information."],
 ]
@@ -22,7 +22,7 @@ FAQS = [
 PAGE = {
     "path": "/accommodation",
     "title": "18+ Supported Accommodation in South London | Urban Carers",
-    "description": "18+ supported, semi-independent accommodation in South London: furnished double rooms and weekly key-work support for care leavers aged 18–25.",
+    "description": "18+ supported accommodation in South London for young men leaving care, aged 18–25: furnished double rooms and weekly key-work support.",
     "breadcrumb": "Accommodation",
     "faq": FAQS,
     "hero": {
@@ -78,7 +78,7 @@ PAGE = {
                     {"title": "The house suits", "kind": "check", "items": [
                         "Care leavers and unaccompanied asylum-seeking young people aged 18–25",
                         "Young adults with low to medium support needs",
-                        "Young people ready to live semi-independently with regular support",
+                        "Young people ready to take more responsibility for daily life, with regular support",
                         "Any placing local authority, in London or beyond",
                     ]},
                     {"title": "Not suitable for", "kind": "x", "items": [
